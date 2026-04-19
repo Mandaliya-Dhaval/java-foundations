@@ -55,7 +55,7 @@ public class  Day02IfElse {
 		System.out.println("=======4. Leap year Calculate =======");
 		System.out.println("Enter the Year to Check Leap year or Not:");
 		int leap = sc.nextInt();
-		if ((leap %4 ==0) || ((leap % 400 ==0) && (leap %100 !=0))){
+		if ((leap %400 ==0) || ((leap % 4 ==0) && (leap %100 !=0))){
 			System.out.println("3) "+ leap + " Is an Leap Year");
 		}
 		else{
@@ -67,13 +67,13 @@ public class  Day02IfElse {
 		System.out.println("=======5. Grade Calculate =======");
 		System.out.println("Enter the % to Check Grade:");
 		double grade = sc.nextDouble();
-		if (grade >= 80){
+		if (grade >= 90){
 		System.out.println("A Grade");}
-		else if (grade <80 && grade >=60){
+		else if (grade <90 && grade >=80){
 		System.out.println("B Grade");}
-		else if (grade <60 && grade >=45){
+		else if (grade <80 && grade >=70){
 		System.out.println("C Grade");}
-		else if (grade <45 && grade >=35){
+		else if (grade <70 && grade >=60){
 		System.out.println("D Grade");}
 		else{
 		System.out.println("F Grade");}
@@ -93,5 +93,6 @@ public class  Day02IfElse {
 		else{
 			System.out.println("Wrong Username & password");
 		}
+		sc.close();
 	}
 }

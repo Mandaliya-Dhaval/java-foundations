@@ -1,6 +1,6 @@
-1. Parameters & arugements
+1. Parameters & arguments
 -> Parameters are the named variables in a method definition.
--> arugements are the actual values we pass to method when we call it.
+-> arguments are the actual values we pass to method when we call it.
 
 2. Return type
 -> void -Method does something but give nothing back (printing, Modifying)

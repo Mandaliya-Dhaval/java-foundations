@@ -91,11 +91,11 @@ public class Day04Methods{
 		System.out.println("Sum of " + a + " and " + b + " is " + add(a,b));
 		
 		// isEven, isPrime, factorial, reverseNumber, sumOfDigits on same number
-		System.out.println("Enter an inteher to test (isEven, isPrime, factorial): ");
-		long n = sc.nextInt();
+		System.out.println("Enter an integer to test (isEven, isPrime, factorial): ");
+		int n = sc.nextInt();
 		System.out.println( n + " is even ? " + isEven(n));
 		System.out.println( n + " is prime ? " + dy.isPrime(n));
-		long fct = dy.factorial(n);
+		int fct = dy.factorial(n);
 		if (fct >=0){
 			System.out.println(n + "!= " + fct);
 		}else{
@@ -104,7 +104,7 @@ public class Day04Methods{
 		
 		//reverse number
 		System.out.println("Enter an Integer to test reverseNumber and sumOfDigits: ");
-		long r = sc.nextInt();
+		int r = sc.nextInt();
 		System.out.println("Reverse " + r + " = " + dy.reverseNumber(r));
 		System.out.println("Sum of digit  " + r + " = " + dy.sumOfDigits(r));
 		

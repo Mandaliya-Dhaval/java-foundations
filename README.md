@@ -14,8 +14,9 @@ Build Java basics for Selenium + TestNG automation interviews.
 | 00  | 2026-04-17 | Setup + GitHub system | ✅ |
 | 01  | 2026-04-18 | Java basics (variables, types) | ✅ |
 | 02  | 2026-04-19 | if/else practice | ✅ |
-| 03  | 2026-04-19 | loops practice | ✅  |
+| 03  | 2026-04-19 | loops practice | ✅ |
 | 04  | 2026-04-20 | methods | ✅ |
 | 05  | 2026-04-21 | strings | ✅ |
-| 06  | 2026-04-22 | arrays | ⬜ |
-| 07  | 2026-04-23 | revision + git basics | ⬜ |
+| R1  | 2026-04-22 | Revision: strings + methods (light day) | ✅ |
+| 06  | TBD | arrays | ⬜ |
+| 07  | TBD | revision + git basics | ⬜ |

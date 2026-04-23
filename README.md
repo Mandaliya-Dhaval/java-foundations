@@ -18,5 +18,6 @@ Build Java basics for Selenium + TestNG automation interviews.
 | 04  | 2026-04-20 | methods | ✅ |
 | 05  | 2026-04-21 | strings | ✅ |
 | R1  | 2026-04-22 | Revision: strings + methods (light day) | ✅ |
+| R2  | 2026-04-23 | revision: static vs instance | ✅ |
 | 06  | TBD | arrays | ⬜ |
 | 07  | TBD | revision + git basics | ⬜ |

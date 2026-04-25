@@ -20,7 +20,7 @@ Build Java basics for Selenium + TestNG automation interviews.
 | R1  | 2026-04-22 | Revision: strings + methods (light day) | ✅ |
 | R2  | 2026-04-23 | Revision: static vs instance | ✅ |
 | 06A | 2026-04-24 | Arrays (1D basics: sum/min/max/even-odd + traversal) | ✅ |
-| 06B | 2026-04-25 | Arrays (2D table + second largest: duplicates & distinct) | ⬜ |
+| 06B | 2026-04-25 | Arrays (2D table + second largest: duplicates & distinct) | ✅ |
 | 07  | 2026-04-26 | Buffer / revision + Git housekeeping | ⬜ |
 | 08  | 2026-04-27 | OOP + SQL Day 01 (Class/Object + MySQL setup) | ⬜ |
 

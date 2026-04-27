@@ -10,7 +10,7 @@ Build Java basics for Selenium + TestNG automation interviews.
 
 ## Progress Tracker
 | Day | Date | Topic | Status |
-|-----|------|-------|--------|
+|-----|------|-------|-------|
 | 00  | 2026-04-17 | Setup + GitHub system | ✅ |
 | 01  | 2026-04-18 | Java basics (variables, types) | ✅ |
 | 02  | 2026-04-19 | if/else practice | ✅ |
@@ -21,7 +21,7 @@ Build Java basics for Selenium + TestNG automation interviews.
 | R2  | 2026-04-23 | Revision: static vs instance | ✅ |
 | 06A | 2026-04-24 | Arrays (1D basics: sum/min/max/even-odd + traversal) | ✅ |
 | 06B | 2026-04-25 | Arrays (2D table + second largest: duplicates & distinct) | ✅ |
-| 07  | 2026-04-26 | Buffer / revision + Git housekeeping | ⬜ |
+| 07  | 2026-04-26 | Arrays practice (1D + 2D) + revision | ✅ |
 | 08  | 2026-04-27 | OOP + SQL Day 01 (Class/Object + MySQL setup) | ⬜ |
 
 ### Repo Structure

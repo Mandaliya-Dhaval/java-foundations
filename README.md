@@ -22,7 +22,7 @@ Build Java basics for Selenium + TestNG automation interviews.
 | 06A | 2026-04-24 | Arrays (1D basics: sum/min/max/even-odd + traversal) | ✅ |
 | 06B | 2026-04-25 | Arrays (2D table + second largest: duplicates & distinct) | ✅ |
 | 07  | 2026-04-26 | Arrays practice (1D + 2D) + revision | ✅ |
-| 08  | 2026-04-27 | OOP + SQL Day 01 (Class/Object + MySQL setup) | ⬜ |
+| 08  | 2026-04-27 | OOP + SQL Day 01 (Class/Object + MySQL setup) | ✅ |
 
 ### Repo Structure
 - `src/` → Java practice code by day

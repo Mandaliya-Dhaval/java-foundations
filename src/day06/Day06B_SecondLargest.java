@@ -8,10 +8,8 @@ public class Day06B_SecondLargest {
         int largest = Integer.MIN_VALUE;
         int secondLargest = Integer.MIN_VALUE;
 
-        for(int i=0;i<n;i++) {
-            if(arr[i]>largest) {
-                // this is where I am getting error
-
+        for(int i=0;i<n;i++){
+            if(arr[i]>largest){
                 secondLargest = largest;
                 largest = arr[i];
             }
@@ -21,7 +19,7 @@ public class Day06B_SecondLargest {
         }
         return secondLargest;
     }
-    public static int secondLargestDistinct(int [] arr) {
+    public static int secondLargestDistinct(int [] arr){
         int m = arr.length;
         if (m<2){
             return -1;
@@ -31,7 +29,6 @@ public class Day06B_SecondLargest {
 
         for(int j=0;j<m;j++) {
             if (arr[j] > largest) {
-                // this is where I am getting error
                 secondLargest = largest;
                 largest = arr[j];
             } else if (arr[j] > secondLargest && arr[j]!=largest) {

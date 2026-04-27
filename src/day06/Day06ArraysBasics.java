@@ -26,7 +26,7 @@ public class Day06ArraysBasics {
 	}
 
 	public static void printArray(int[] arr) {
-		System.out.println("Array contents: " + Arrays.toString);
+		System.out.println("Array contents: " + Arrays.toString(arr));
 
 	}
 
